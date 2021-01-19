@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 83c95e236a7ff5c4da80c0844d99d175
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3594039347145316298
+    second: areia
+  - first:
+      213: 5608480807053527061
+    second: btn_agua
+  - first:
+      213: -543602784683555607
+    second: fundo_agua
+  - first:
+      213: -7622869035358866336
+    second: perdeu
+  - first:
+      213: -8611366330501909500
+    second: fundo_credi
+  - first:
+      213: -8614170016863851447
+    second: fundo_modo
+  - first:
+      213: -7453625469260530242
+    second: pesca_um
+  - first:
+      213: 7219073089560368497
+    second: pesca_dois
+  - first:
+      213: -7993895130877491637
+    second: spritebeija_1
+  - first:
+      213: -4128493695619941570
+    second: spritebeija_2
+  - first:
+      213: 7285993850539464755
+    second: spritebeija_3
+  - first:
+      213: 208432054542965347
+    second: spritebeija_4
+  - first:
+      213: -3066583480339120496
+    second: cao1
+  - first:
+      213: -7511392956439733728
+    second: cao2
+  - first:
+      213: 3564691239241631989
+    second: cao3
+  - first:
+      213: 4530559440117561232
+    second: spritejogo2_7
+  - first:
+      213: 9049330395310912501
+    second: cao4
+  - first:
+      213: -6813077929454490357
+    second: cao5
+  - first:
+      213: -1461872022263712868
+    second: cao6
+  - first:
+      213: 6096611617437363794
+    second: cao7
+  - first:
+      213: 2584397291407993647
+    second: cao8
+  - first:
+      213: 7588133929852727084
+    second: cao9
+  - first:
+      213: -7959583541491402180
+    second: cao10
+  - first:
+      213: -8363736714459328887
+    second: cao11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: areia
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1761
+        width: 278
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac79f538eb790e130800000000000000
+      internalID: 3594039347145316298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_agua
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 817
+        width: 692
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518850a349355dd40800000000000000
+      internalID: 5608480807053527061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundo_agua
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1545
+        width: 625
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e40600c52cb478f0800000000000000
+      internalID: -543602784683555607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1559
+        width: 554
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0643c120001263690800000000000000
+      internalID: -7622869035358866336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundo_credi
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 62
+        width: 1275
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404bca782f74e7880800000000000000
+      internalID: -8611366330501909500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundo_modo
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1600
+        width: 647
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c620e6202547880800000000000000
+      internalID: -8614170016863851447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesca_um
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1356
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdfbef60276f8890800000000000000
+      internalID: -7453625469260530242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesca_dois
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1353
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d3d60abc4f2460800000000000000
+      internalID: 7219073089560368497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritebeija_1
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 327
+        width: 242
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4682506bbaff0190800000000000000
+      internalID: -7993895130877491637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritebeija_2
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 328
+        width: 241
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b32278bd4a4b6c0800000000000000
+      internalID: -4128493695619941570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritebeija_3
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 93
+        width: 242
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338d511edcc0d1560800000000000000
+      internalID: 7285993850539464755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritebeija_4
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 106
+        width: 244
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a96da69df74e200800000000000000
+      internalID: 208432054542965347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao1
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1168
+        width: 145
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e3e44729e4175d0800000000000000
+      internalID: -3066583480339120496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao2
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1166
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad90737eb22c790800000000000000
+      internalID: -7511392956439733728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao3
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1166
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8c1f8abc3587130800000000000000
+      internalID: 3564691239241631989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritejogo2_7
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1167
+        width: 148
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097fffd8ec7cfde30800000000000000
+      internalID: 4530559440117561232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1014
+        width: 137
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f6a39c0ea59d70800000000000000
+      internalID: 9049330395310912501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao5
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1019
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dafcb68b51371a0800000000000000
+      internalID: -6813077929454490357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao6
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1014
+        width: 133
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93b3ed142366bbe0800000000000000
+      internalID: -1461872022263712868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao7
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1013
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eafdef6f38b9450800000000000000
+      internalID: 6096611617437363794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 867
+        width: 151
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bead0d4af9dd320800000000000000
+      internalID: 2584397291407993647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao9
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 869
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe5f40b977e4960800000000000000
+      internalID: 7588133929852727084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao10
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 855
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3afb51d0f0e98190800000000000000
+      internalID: -7959583541491402180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao11
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 855
+        width: 136
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e42cb65c90eeb80800000000000000
+      internalID: -8363736714459328887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
